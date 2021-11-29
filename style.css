@@ -10,7 +10,9 @@ body{
     min-height: 100vh;
     background-color: #f5ea87;
 }
-
+.tex{
+    margin-top: 100px;
+}
 .face{
     display: flex;
     justify-content: center;
